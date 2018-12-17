@@ -1,37 +1,119 @@
-## Welcome to GitHub Pages
+# Hello_HDU
 
-You can use the [editor on GitHub](https://github.com/ztygalaxy/Hello_HDU/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 杭州电子科技大学考研信息、资料汇总   
+>
+> GitHub Pages:[杭州电子科技大学计算机考研信息汇总]()   
+>
+> 适用报考范围：  **计算机学院计算机相关专业**    
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**前言**：什么他娘的精锐，老子打的就是精锐！——李云龙
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 目录      
 
-**Bold** and _Italic_ and `Code` text
+- [杭州电子科技大学计算机考研信息汇总]()
+  - [一些问题]()
+  - [初试篇](#初试篇)
+    - [杭电考研重要网站]()
+    - [招生专业目录]()
+      - [1.全日制招生目录]()
+      - [2.非全日制招生目录]()
+    - [报录比](#报录比)
+      - [1. 2013年杭电报录比]()
+      - [2. 2014年杭电报录比]()
+      - [3. 2015年杭电报录比]()
+      - [4. 2016年杭电报录比]()
+      - [5. 2017年杭电报录比]()
+      - [6. 2018年杭电报录比]()
+    - [考试大纲](#考试大纲)
+      - [1. 851组成原理]()
+    - [专业课真题](#专业课真题)
+      - [1. 851真题]()
+      - [2. 852真题]()
+    - [18级杭电考研经验分享](#18级杭电考研经验分享)
+  - [复试篇](#复试篇)
+    - [分数线](#分数线)
+      - [1. 分数线简介](#1-分数线简介)
+      - [2. 国家线](#2-国家线)
+        - [2.1 2016年国家线](#21-2016年国家线)
+        - [2.2 2017年国家线](#22-2017年国家线)
+        - [2.3 2018年国家线](#23-2018年国家线)
+      - [3 校线](#3-校线)
+      - [4 院线](#4-院线)
+        - [计算机学院院线](#41-计算机学院院线)
+    - [历史时间线](#历史时间线)
+      - [1. 2016年复试时间线](#1-2016年复试时间线)
+      - [2. 2017年复试时间线](#2-2017年复试时间线)
+      - [3. 2018年复试时间线](#3-2018年复试时间线)
+    - [杭电复试流程图](#杭电复试流程图)
+    - [杭电复试进行时](#杭电复试进行时)
+      - [1. 复试细则](#1-复试细则)
+        - [计算机学院复试细则](#11-计算机学院复试细则)
+      - [2. 初试成绩排名](#2-初试成绩排名)
+        - [2.1 2017年初试成绩排名](#21-2017年初试成绩排名)
+        - [2.2 2018年初试成绩排名](#22-2018年初试成绩排名)
+      - [3. 复试名单](#3-复试名单)
+        - [计算机学院复试名单](#31-计算机学院复试名单)
+      - [4. 复试-笔试](#4-复试-笔试)
+        - [ 笔试科目](#41-笔试科目)
+      - [6. 复试结果](#6-复试结果)
+        - [计算机学院复试结果](#61-计算机学院复试结果)
+    - [杭电拟录取名单](#杭电拟录取名单)
+      - [1. 2015年杭电拟录取名单](#1-2015年杭电拟录取名单)
+      - [2. 2016年杭电拟录取名单](#2-2016年杭电拟录取名单)
+      - [3. 2017年杭电拟录取名单](#3-2017年杭电拟录取名单)
+      - [4. 2018年杭电拟录取名单](#4-2018年杭电拟录取名单)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 初试篇
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ztygalaxy/Hello_HDU/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 杭电考研重要网站
 
-### Support or Contact
+- [杭州电子科技大学研究生院](http://grs.hdu.edu.cn)
+- [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
+- [天勤论坛](http://www.csbiji.com/)
+- [王道论坛](www.cskaoyan.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 招生专业目录
+
+**简介**：招生专业、人数、初试科目等信息。
+
+#### 全日制
+
+- [2019年计算机学院全日制硕士研究生招生专业目录](http://grs.hdu.edu.cn/_upload/article/files/5c/cd/5b26733d48f6a2c76569a99451a6/c579800c-ccee-4716-911d-ce6b4e4a36c2.xls)  
+- [2018年计算机学院全日制硕士研究生招生专业目录](http://grs.hdu.edu.cn/_upload/article/files/3d/99/ca813d3f4bcebcaf2d43b614b468/5a5b3751-c2fa-4dfc-8bff-b785a41f2176.doc)	    
+- [2017年计算机学院全日制硕士研究生招生专业目录](http://grs.hdu.edu.cn/_upload/article/files/23/a0/acde5bc9498a809aaf6ca5a43498/ceb1416c-ba0c-4c13-8dcf-8d013b626c58.doc)    
+- [2016年计算机学院全日制硕士研究生招生专业目录](http://grs.hdu.edu.cn/_upload/article/files/0f/a8/84f6c1cb4fb4881a3cd0c58543ad/69374210-6c2e-4e07-964a-a161a25418df.doc) 
+
+#### 非全日制
+
+- [2019年计算机学院非全日制硕士研究生招生专业目录](http://grs.hdu.edu.cn/_upload/article/files/5c/cd/5b26733d48f6a2c76569a99451a6/5da632ce-7701-4f47-b60e-7da9f1e7b4e0.xls)  
+### 报录比
+**简介**：历年各专业的具体报录信息和往年的考试均分等信息。供考研学子评估考研难度，为择校提供参考数据。         
+
+#### 1.2018年  
+
+
+
+
+
+
+
+
+
+---
+
+**注**：本工程系闲暇之余整理的杭州电子科技大学计算机考研信息，所需信息来自官网及考研群，不定期更新。
+
+​	目前目录树尚未构思完毕，将按目录结构不定期更新。
+
+​	希望为同学们收集资料节省一点时间、有所帮助。
+
+​	如果有志同道合的朋友，可按照格式提交。
+
+​	如有问题，请[联系我](mailto:zhangty1996@163.com)。
