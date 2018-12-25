@@ -1,9 +1,10 @@
 
 > 杭州电子科技大学考研信息、资料汇总   
 >
-> GitHub Pages:[杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)   
+> GitHub Pages:[杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)
 >
-> 适用报考范围：  **计算机学院计算机相关专业**    
+> 适用报考范围：  **计算机学院计算机相关专业**  
+> Github Pages有时可能会出现更新不及时问题，如果您是通过https://ztygalaxy.github.io/Hello_HDU 访问本页，可尝试访问https://github.com/ztygalaxy/Hello_HDU来查看最新更新。
 
 
 
