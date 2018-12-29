@@ -3,9 +3,10 @@
 >
 > Do something really cool and make the world a better place.
 >
-> GitHub Pages:[杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)   
+> GitHub Pages:[杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)
 >
-> 适用报考范围：  **计算机学院计算机相关专业**    
+> 适用报考范围：  **计算机学院计算机相关专业**  
+> Github Pages有时可能会出现更新不及时问题，如果您是通过https://ztygalaxy.github.io/Hello_HDU 访问本页，可尝试访问https://github.com/ztygalaxy/Hello_HDU来查看最新更新。
 
 
 
@@ -289,3 +290,8 @@
 ​	2.目前目录树尚未构思完毕，将按目录结构不定期更新，**可watch追踪进度，当前阶段可能更新较为频繁**。
 
 ​	3.如果有志同道合的朋友，可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
+<<<<<<< HEAD
+=======
+
+​	4.如有问题，请[联系我](mailto:zhangty1996@163.com)。
+>>>>>>> 738192a7b4e4b6755db9e906a5c7a1405c51bda7
