@@ -353,7 +353,7 @@
 
 希望这个页面能给你一些帮助。
 
-Do something really cool and make he world a better place.
+Do something really cool and make the world a better place.
 
 ### 致谢
 
