@@ -76,14 +76,21 @@
 
 ## 初试篇
 
-### 1  杭电考研重要网站
+### 1  杭电考研重要信息来源
 
 > **简介**：前两个网站请务必及时关注，后两个为专业课资料的出版方论坛。
 
 - [杭州电子科技大学研究生院](http://grs.hdu.edu.cn)
+
 - [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
+
 - [天勤论坛](http://www.csbiji.com/)
+
 - [王道论坛](www.cskaoyan.com)
+
+- 杭电研究生招生和研招网微信公众号
+
+![](Others/qrcode_zs.png)
 
 ### 2  招生专业目录
 
@@ -343,7 +350,7 @@
 
 > 2018年实验室宣传文件，包括但不限于以下实验室。如果有遗漏，可按格式push上来或联系我更新。
 
-- [2018物联网研究团队招新](Data2018/LabList/2018物联网研究团队招新.pdf)
+- [**2018物联网研究团队招新**](Data2018/LabList/2018物联网研究团队招新.pdf)
 
 - [“协同计算与海量数据处理”实验室招收研究生简介](Data2018/LabList/“协同计算与海量数据处理”实验室招收研究生简介.pdf)
 
@@ -373,6 +380,8 @@
 
 - [智能与控制实验室招生宣传](Data2018/LabList/智能与控制实验室招生宣传.pdf)
 
+
+
 ### 不定期更新中。。。
 
 
@@ -387,11 +396,16 @@ Do something really cool and make he world a better place.
 
 ### 致谢
 
-以上内容花了笔者较多精力整理，也离不开2018级计算机学院广大群友的支持。在他们的努力下，许多资料才得以放在这里。如果你觉得有所帮助的话，请star一下，谢谢。
+以上内容花了较多精力整理，也离不开2018级计算机学院广大群友的支持。在他们的努力下，许多资料才得以放在这里。如果你觉得有所帮助的话，请star一下，谢谢。
 
-贡献者：[ztygalaxy](https://github.com/ztygalaxy)	[xiandyun](https://github.com/xiandyun)	[Felon03](https://github.com/Felon03)
+**Author**
+
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/1)
 
 
+**Contributors**
+
+[xiandyun](https://github.com/xiandyun)	[Felon03](https://github.com/Felon03)
 
 
 
@@ -399,8 +413,6 @@ Do something really cool and make he world a better place.
 
 **注**：1.本工程系闲暇之余整理的杭州电子科技大学计算机考研信息，所需信息来自官网及考研群，不定期更新，	希望为同学们收集资料节省一点时间、有所帮助。匆忙整理，错误在所难免，请联系并告诉我。
 
-​	2.目前目录树尚未构思完毕，将按目录结构不定期更新，**可watch追踪进度，当前阶段可能更新较为频繁**。
+​	2.可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
 
-​	3.如果有志同道合的朋友，可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
-
-​	4.如有问题，请[联系我](mailto:zhangty1996@163.com)。
+​	3.如有问题，请[联系我](mailto:zhangty1996@163.com)。
