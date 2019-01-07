@@ -8,6 +8,9 @@
 
 ## 已更新目录
 
+- [关于杭电](#关于杭电)
+    - [1  杭电简介](#1--杭电简介)
+    - [2  研究生奖助政策](#2--研究生奖助政策)
 - [初试篇](#初试篇)
     - [1  杭电考研重要网站](#1--杭电考研重要网站)
     - [2  招生专业目录](#2--招生专业目录)
@@ -59,16 +62,35 @@
 
 ---
 
+
+
+##  关于杭电
+
+###  1  杭电简介
+
+![杭电简介](Others/HDU简介.jpg)
+
+###  2  研究生奖助政策
+
+![奖助政策](Others/奖助.png)
+
 ## 初试篇
 
-### 1  杭电考研重要网站
+### 1  杭电考研重要信息来源
 
 > **简介**：前两个网站请务必及时关注，后两个为专业课资料的出版方论坛。
 
 - [杭州电子科技大学研究生院](http://grs.hdu.edu.cn)
+
 - [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
+
 - [天勤论坛](http://www.csbiji.com/)
+
 - [王道论坛](www.cskaoyan.com)
+
+- 杭电研究生招生和研招网微信公众号
+
+![](Others/qrcode_zs.png)
 
 ### 2  招生专业目录
 
@@ -115,15 +137,18 @@
 
 #### 4.1  2018年考试大纲
 
-[2018年856数据结构与组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/856%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.docx?raw=true)
+- [2018年856数据结构与组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/856%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.docx?raw=true)
 
 #### 4.2  2017年考试大纲
 
-[2017年851数据结构考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/851%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.doc?raw=true)    [2017年852组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/852%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.doc?raw=true)
+- [2017年851数据结构考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/851%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.doc?raw=true) 
+
+- [2017年852组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/852%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.doc?raw=true)
 
 #### 4.3  2016年考试大纲
 
-[2016年851数据结构考试大纲]()    [2016年852组成原理考试大纲]()
+- [2016年851数据结构考试大纲]() 
+- [2016年852组成原理考试大纲]()
 
 ### 5  专业课真题
 
@@ -132,6 +157,7 @@
 #### 5.1  数据结构
 
 [2018.12](Data2018/数据结构与组成原理)  [2017.12](Data2017/数据结构)  [2016.12](Data2016/数据结构)  [2015.12](Data2015/数据结构)
+
 [2014.12](Data2014/数据结构)  [2013.12](Data2013/数据结构)  [2012.12](Data2012/数据结构)  [2011.12](Data2011/数据结构)
 
 [历年真题整合]()
@@ -154,30 +180,19 @@
 
 > **简介**：本栏数据为2018级录取结束后，新生群主管理员等邀请得分高手撰写。作者主要是初试高分选手、复试佼佼者及有特点的选手。
 
+- [三跨考研复试经验](https://github.com/HanochShi/HDU_Interview) by 史航[Github:HanochShi](https://github.com/HanochShi)
 - [18砥砺前行19金榜题名](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E7%A0%A5%E7%A0%BA%E5%89%8D%E8%A1%8C19%E9%87%91%E6%A6%9C%E9%A2%98%E5%90%8D.pdf)
-
 - [18杭电计算机考研初试状元经验分享](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E6%9D%AD%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E7%8A%B6%E5%85%83%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf)
-
 - [18计算机专业课复习心得](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97.pdf)
-
 - [19届复习建议——必看！](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/19%E5%B1%8A%E5%A4%8D%E4%B9%A0%E5%BB%BA%E8%AE%AE%E2%80%94%E2%80%94%E5%BF%85%E7%9C%8B%EF%BC%81.pdf)
-
 - [2018复试经验](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/2018%E5%A4%8D%E8%AF%95%E7%BB%8F%E9%AA%8C.pdf)
-
 - [不考400分，咱先上国家线！](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E4%B8%8D%E8%80%83400%E5%88%86%EF%BC%8C%E5%92%B1%E5%85%88%E4%B8%8A%E5%9B%BD%E5%AE%B6%E7%BA%BF%EF%BC%81.pdf)
-
 - [复试大佬经验谈](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E5%A4%8D%E8%AF%95%E5%A4%A7%E4%BD%AC%E7%BB%8F%E9%AA%8C%E8%B0%88.pdf)
-
 - [杭电学硕大佬复试经验](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E6%9D%AD%E7%94%B5%E5%AD%A6%E7%A1%95%E5%A4%A7%E4%BD%AC%E5%A4%8D%E8%AF%95%E7%BB%8F%E9%AA%8C.pdf)
-
 - [跨考+英语+面试口语经验](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E8%B7%A8%E8%80%83%2B%E8%8B%B1%E8%AF%AD%2B%E9%9D%A2%E8%AF%95%E5%8F%A3%E8%AF%AD%E7%BB%8F%E9%AA%8C.pdf)
-
 - [浅谈杭电计算机考研复习策略](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E6%B5%85%E8%B0%88%E6%9D%AD%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E7%AD%96%E7%95%A5.pdf)
-
 - [学硕第二名的经验](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E5%AD%A6%E7%A1%95%E7%AC%AC%E4%BA%8C%E5%90%8D%E7%9A%84%E7%BB%8F%E9%AA%8C.txt)
-
 - [一份来自苦哈哈专业跨考狗的胡吹](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E4%B8%80%E4%BB%BD%E6%9D%A5%E8%87%AA%E8%8B%A6%E5%93%88%E5%93%88%E4%B8%93%E4%B8%9A%E8%B7%A8%E8%80%83%E7%8B%97%E7%9A%84%E8%83%A1%E5%90%B9.pdf)
-
 - [政治复习经验](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/%E6%94%BF%E6%B2%BB%E5%A4%8D%E4%B9%A0%E7%BB%8F%E9%AA%8C.pdf)
 
 ## 复试篇
@@ -290,13 +305,21 @@
 > 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753)
 
 - [杭州电子科技大学2006-2009年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79628591)
+
 - [杭州电子科技大学2010年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79596114)
+
 - [杭州电子科技大学2011年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79595161)
+
 - [杭州电子科技大学2012年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79571748)
+
 - [杭州电子科技大学2013年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79570967)
+
 - [杭州电子科技大学2014年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79568584)
+
 - [杭州电子科技大学2015年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79537583)
+
 - [杭州电子科技大学2016年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79489097)
+
 - [杭州电子科技大学2017年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79464579)
 
 ### 4  复试进行时
@@ -323,25 +346,41 @@
 
 ![](Others/杭电平面图.jpg)
 
-#### 4.5 实验室宣传栏
+#### 4.5  实验室宣传栏
 
 > 2018年实验室宣传文件，包括但不限于以下实验室。如果有遗漏，可按格式push上来或联系我更新。
 
-- [2018物联网研究团队招新](Data2018/LabList/2018物联网研究团队招新.pdf)
+- [**2018物联网研究团队招新**](Data2018/LabList/2018物联网研究团队招新.pdf)
+
 - [“协同计算与海量数据处理”实验室招收研究生简介](Data2018/LabList/“协同计算与海量数据处理”实验室招收研究生简介.pdf)
+
 - [127图形图像实验室简介](Data2018/LabList/127图形图像实验室简介.pdf)
+
 - [532实验室陈小雕团队2018招新](Data2018/LabList/532实验室陈小雕团队2018招新.pdf)
+
 - [城市计算与大数据团队招新手册](Data2018/LabList/城市计算与大数据团队招新手册.pdf)
+
 - [欢迎报考智能信息处理与应用实验室](Data2018/LabList/欢迎报考智能信息处理与应用实验室.pdf)
+
 - [认知与智能计算515实验室招生介绍2018](Data2018/LabList/认知与智能计算515实验室招生介绍2018.pdf)
+
 - [图像处理实验室李黎老师团队介绍](Data2018/LabList/图像处理实验室李黎老师团队介绍.pdf)
+
 - [吴国华老师团队硕士研究生招新](Data2018/LabList/吴国华老师团队硕士研究生招新.pdf)
+
 - [物联网实验室-刘鹏课题组招生](Data2018/LabList/物联网实验室-刘鹏课题组招生.pdf)
+
 - [云计算实验室宣传册pdf版](Data2018/LabList/云计算实验室宣传册pdf版.pdf)
+
 - [智能计算与数据挖掘实验室招生宣传册](Data2018/LabList/智能计算与数据挖掘实验室招生宣传册.pdf)
+
 - [智能可视建模与仿真研究团队2018招生](Data2018/LabList/智能可视建模与仿真研究团队2018招生.pdf)
+
 - [智能软件工程实验室简介](Data2018/LabList/智能软件工程实验室简介.pdf)
+
 - [智能与控制实验室招生宣传](Data2018/LabList/智能与控制实验室招生宣传.pdf)
+
+
 
 ### 不定期更新中。。。
 
@@ -357,16 +396,23 @@ Do something really cool and make the world a better place.
 
 ### 致谢
 
-以上内容花了笔者较多精力整理，也离不开2018级计算机学院广大群友的支持。在他们的努力下，许多资料才得以放在这里。
+以上内容花了较多精力整理，也离不开2018级计算机学院广大群友的支持。在他们的努力下，许多资料才得以放在这里。如果你觉得有所帮助的话，请star一下，谢谢。
 
-感谢[刁总(Github:xiandyun)](https://github.com/xiandyun)的宝贵建议和文件支持。
+**Author**
+
+[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/1)
+
+
+**Contributors**
+
+[xiandyun](https://github.com/xiandyun)	[Felon03](https://github.com/Felon03)
+
+
 
 ---
 
 **注**：1.本工程系闲暇之余整理的杭州电子科技大学计算机考研信息，所需信息来自官网及考研群，不定期更新，	希望为同学们收集资料节省一点时间、有所帮助。匆忙整理，错误在所难免，请联系并告诉我。
 
-​	2.目前目录树尚未构思完毕，将按目录结构不定期更新，**可watch追踪进度，当前阶段可能更新较为频繁**。
+​	2.可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
 
-​	3.如果有志同道合的朋友，可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
-
-​	4.如有问题，请[联系我](mailto:zhangty1996@163.com)。
+​	3.如有问题，请[联系我](mailto:zhangty1996@163.com)。
