@@ -392,7 +392,7 @@
 
 希望这个页面能给你一些帮助。
 
-Do something really cool and make he world a better place.
+Do something really cool and make the world a better place.
 
 ### 致谢
 
@@ -405,14 +405,12 @@ Do something really cool and make he world a better place.
 
 **Contributors**
 
-[xiandyun](https://github.com/xiandyun)	[Felon03](https://github.com/Felon03)
-
-
+[<img src="Others/Contributors/Felon03.png" height="98px" alignment="left">](https://github.com/Felon03)   [<img src="Others/Contributors/xiandyun.png" height="98px" alignment="left">](https://github.com/xiandyun)
 
 ---
 
-**注**：1.本工程系闲暇之余整理的杭州电子科技大学计算机考研信息，所需信息来自官网及考研群，不定期更新，	希望为同学们收集资料节省一点时间、有所帮助。匆忙整理，错误在所难免，请联系并告诉我。
+欢迎关注我的个人订阅号，张大炮来巡山。
 
-​	2.可按照格式提交。本页面文件及资料收集自互联网，如侵犯了您的权益，请联系我删除。
+<img src="Others/qrcode_zdplxs_word.png" height="100px">
 
-​	3.如有问题，请[联系我](mailto:zhangty1996@163.com)。
+
