@@ -405,7 +405,7 @@ Do something really cool and make the world a better place.
 
 **Contributors**
 
- [<img src="Others/Contributors/xiandyun.png" height="98px" alignment="left">](https://github.com/xiandyun)
+  [<img src="https://avatars3.githubusercontent.com/u/26433516?s=400&v=4" width="60px">](https://github.com/xiandyun)
 
 ---
 
