@@ -113,8 +113,9 @@
 
 #### 2.2  中外合作办学2019年招生简章
 
-- [杭州电子科技大学圣光机联合学院2019年硕士研究生招生简章[专硕]](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/杭州电子科技大学圣光机联合学院2019年硕士研究生招生简章.pdf?raw=true)
-- [杭州电子科技大学与日本山梨大学合作培养2019年计算机科学与技术硕士研究生招生简章[学硕]](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/杭州电子科技大学与日本山梨大学合作培养2019年计算机科学与技术硕士研究生招生简章.pdf?raw=true)
+- [杭州电子科技大学圣光机联合学院2019年硕士研究生招生简章[专硕]](Data2018/杭州电子科技大学圣光机联合学院2019年硕士研究生招生简章.pdf)
+
+- [杭州电子科技大学与日本山梨大学合作培养2019年计算机科学与技术硕士研究生招生简章[学硕]](Data2018/杭州电子科技大学与日本山梨大学合作培养2019年计算机科学与技术硕士研究生招生简章.pdf)
 
 
 ### 3  招生专业目录
@@ -123,15 +124,15 @@
 
 #### 3.1  全日制
 
-- 2018年计算机学院全日制硕士研究生招生专业目录([下载](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/%E5%85%A8_2019.xls?raw=true))
+- 2018年计算机学院全日制硕士研究生招生专业目录([下载](Data2018/全_2019.xls))
 
-  ![](Data2018/全_2019.png)
+  ![2018年计算机学院全日制硕士研究生招生专业目录](Data2018/全_2019.png)
 
 #### 3.2  非全日制
 
-- 2018年计算机学院非全日制硕士研究生招生专业目录([下载](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/%E9%9D%9E%E5%85%A8_2019.xls?raw=true))
+- 2018年计算机学院非全日制硕士研究生招生专业目录([下载](Data2018/非全_2019.xls))
 
-  ![](Data2018/非全_2019.png)
+  ![2018年计算机学院非全日制硕士研究生招生专业目录](Data2018/非全_2019.png)
   
 ### 4  报录比
 
@@ -141,18 +142,20 @@
 
 ![2018年报录比](Data2018/报录比_2018.jpg)
 
-[详情](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/2018%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%B8%8A%E7%BA%BF%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5.pdf)
+[详情](Data2018/2018年硕士研究生报考上线录取情况.pdf)
+
+*注：为了方便在线浏览，已将大多数Word文档转换为可在线预览的PDF文档，如需Word格式，可前往对应目录查看。*
 
 #### 4.2  2017年
 ![2017年报录比](Data2017/报录比_2017.jpg)
 
-[详情](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/2017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%B8%8A%E7%BA%BF%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5.pdf)
+[详情](Data2017/2017年硕士研究生报考上线录取情况.pdf)
 
 #### 4.3  2016年
 
 ![2016年报录比](Data2016/报录比_2016.jpg)
 
-[详情](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2016/2016%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%B8%8A%E7%BA%BF%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5.pdf)
+[详情](Data2016/2016年硕士研究生报考上线录取情况.pdf)
 
 ### 5  考试大纲
 
@@ -162,13 +165,13 @@
 
 #### 5.1  2018年考试大纲
 
-- [2018年856数据结构与组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2018/856%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.docx?raw=true)
+- [2018年856数据结构与组成原理考试大纲](Data2018/856数据结构与组成原理.pdf)
 
 #### 5.2  2017年考试大纲
 
-- [2017年851数据结构考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/851%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.doc?raw=true) 
+- [2017年851数据结构考试大纲](Data2017/851数据结构.pdf) 
 
-- [2017年852组成原理考试大纲](https://github.com/ztygalaxy/Hello_HDU/blob/master/Data2017/852%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.doc?raw=true)
+- [2017年852组成原理考试大纲](Data2017/852组成原理.pdf)
 
 #### 5.3  2016年考试大纲
 
@@ -205,7 +208,7 @@
 
 > **简介**：本栏数据为2018级录取结束后，新生群主管理员等邀请得分高手撰写。作者主要是初试高分选手、复试佼佼者及有特点的选手。
 
-- [三跨考研复试经验](https://github.com/HanochShi/HDU_Interview) by 史航[Github:HanochShi](https://github.com/HanochShi)
+- [三跨考研复试经验](https://github.com/HanochShi/HDU_Interview) by [史航HanochShi](https://github.com/HanochShi)
 - [18砥砺前行19金榜题名](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E7%A0%A5%E7%A0%BA%E5%89%8D%E8%A1%8C19%E9%87%91%E6%A6%9C%E9%A2%98%E5%90%8D.pdf)
 - [18杭电计算机考研初试状元经验分享](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E6%9D%AD%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E7%8A%B6%E5%85%83%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf)
 - [18计算机专业课复习心得](https://github.com/ztygalaxy/Hello_HDU/blob/master/Others/%E7%BB%8F%E9%AA%8C/18%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97.pdf)
