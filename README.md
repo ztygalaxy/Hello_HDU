@@ -101,9 +101,13 @@
 > **简介**：前两个网站请务必及时关注，后两个为专业课资料的出版方论坛。
 
 - [杭州电子科技大学研究生院](http://grs.hdu.edu.cn)
+
 - [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
+
 - [天勤论坛](http://www.csbiji.com/)
+
 - [王道论坛](www.cskaoyan.com)
+
 - 杭电研究生招生和研招网微信公众号
 
 <img src="Others/qrcode_zs.png" height="120px">
@@ -188,17 +192,17 @@
 
 #### 6.1  数据结构
 
-[2018.12](Data2018/数据结构与组成原理)  [2017.12](Data2017/数据结构)  [2016.12](Data2016/数据结构)  [2015.12](Data2015/数据结构)
+[2018.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2018/数据结构与组成原理)  [2017.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2017/数据结构)  [2016.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2016/数据结构)  [2015.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2015/数据结构)
 
-[2014.12](Data2014/数据结构)  [2013.12](Data2013/数据结构)  [2012.12](Data2012/数据结构)  [2011.12](Data2011/数据结构)
+[2014.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2014/数据结构)  [2013.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2013/数据结构)  [2012.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2012/数据结构)  [2011.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2011/数据结构)
 
 [历年真题整合]()
 
 #### 6.2  组成原理
 
-[2017.12](Data2017/组成原理)  [2016.12](Data2016/组成原理)  [2015.12](Data2015/组成原理)  [2014.12](Data2014/组成原理)
+[2017.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2017/组成原理)  [2016.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2016/组成原理)  [2015.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2015/组成原理)  [2014.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2014/组成原理)
 
-[2013.12](Data2013/计算机组成原理)  [2012.12](Data2012/计算机组成原理)  [2011.12](Data2011/计算机组成原理)
+[2013.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2013/计算机组成原理)  [2012.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2012/计算机组成原理)  [2011.12](https://github.com/ztygalaxy/Hello_HDU/tree/master/Data2011/计算机组成原理)
 
 [历年真题整合]()
 
@@ -340,7 +344,9 @@
 ### 3  黎明之前
 
 ​    杭电复试采用“初试*50%+复试*50%=总成绩”的模式，即初试成绩折合为五十分。换句话说，两个分数差十分的同学实际上折合后差距也就在一分左右，因此复试就成了很多同学逆风翻盘的好时机。
+
 ​    复试前应做好哪些准备工作？
+
 -  处理好本科学校的事务，提前几天来杭电，方便参加各种实验室面试。
 - 邮件联系心仪的导师或者实验室，参加实验室面试。
 - 精心准备一份简历
@@ -363,7 +369,7 @@
 
 [杭州电子科技大学ACM OJ训练 Page 11](http://acm.hdu.edu.cn/listproblem.php?vol=11)
 
-[ACM OJ训练 Page 11 2000-2099结题报告](Others/HDU 2000-2099 解题报告.CHM) from [xiandyun ](https://github.com/xiandyun )
+[ACM OJ训练 Page 11 2000-2099解题报告](Others/HDU 2000-2099 解题报告.CHM) from [xiandyun ](https://github.com/xiandyun )
 
 #### 4.3  部分复试笔试真题及解析
 
