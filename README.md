@@ -473,6 +473,8 @@
 
 ​    以上内容花了较多精力整理，也离不开2018级计算机学院广大群友的支持。在他们的努力下，许多资料才得以放在这里。如果你觉得有所帮助的话，请star一下，谢谢。
 
+​    **欢迎加入杭州电子科技大学2020级计算机考研交流群：561072531。**
+
 **Author**
 
 [![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/1)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/2)
