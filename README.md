@@ -381,29 +381,22 @@
 
 #### 4.3  部分复试笔试真题及解析
 
-> 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753)
+> 本节部分内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753)
 
 - [杭州电子科技大学2006-2009年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79628591)
-
 - [杭州电子科技大学2010年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79596114)
-
 - [杭州电子科技大学2011年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79595161)
-
 - [杭州电子科技大学2012年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79571748)
-
 - [杭州电子科技大学2013年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79570967)
-
 - [杭州电子科技大学2014年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79568584)
-
 - [杭州电子科技大学2015年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79537583)
-
 - [杭州电子科技大学2016年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79489097)
-
 - [杭州电子科技大学2017年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79464579)
+- [杭州电子科技大学2018年计算机硕士复试部分真题解析](https://www.cnblogs.com/BlueBlue-Sky/p/9081937.html)
 
 ### 5  复试进行时
 
-> 本栏不定期更新复试具体安排，将与官网保持同步更新，或稍有延误。
+> 本栏不定期更新当年复试具体安排，将与官网保持同步更新，或稍有延误。
 
 #### 5.1  2019年成绩查询
 
@@ -440,6 +433,8 @@
 - [计算机学院硕士研究生复试录取工作补充说明](Data2018/计算机学院硕士研究生复试录取工作补充说明.pdf)
 
 #### 5.5  杭电平面图
+
+> 杭电平面图，计算机学院位于“1 信仁楼”即第一教学楼位置。
 
 ![](Others/杭电平面图.jpg)
 
