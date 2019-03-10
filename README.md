@@ -381,7 +381,7 @@
 
 #### 4.3  部分复试笔试真题及解析
 
-> 本节部分内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753)
+> 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753)、[是个努力精啊！](https://blog.csdn.net/qq_37230495) ，仅作题目收集。
 
 - [杭州电子科技大学2006-2009年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79628591)
 - [杭州电子科技大学2010年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79596114)
@@ -392,7 +392,7 @@
 - [杭州电子科技大学2015年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79537583)
 - [杭州电子科技大学2016年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79489097)
 - [杭州电子科技大学2017年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79464579)
-- [杭州电子科技大学2018年计算机硕士复试部分真题解析](https://www.cnblogs.com/BlueBlue-Sky/p/9081937.html)
+- [杭州电子科技大学2018年计算机硕士复试真题解析](https://blog.csdn.net/qq_37230495/article/details/88378925?tdsourcetag=s_pcqq_aiomsg)
 
 ### 5  复试进行时
 
