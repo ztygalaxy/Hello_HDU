@@ -392,7 +392,7 @@
 - [杭州电子科技大学2015年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79537583)
 - [杭州电子科技大学2016年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79489097)
 - [杭州电子科技大学2017年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79464579)
-- [杭州电子科技大学2018年计算机硕士复试真题解析](https://blog.csdn.net/qq_37230495/article/details/88378925?tdsourcetag=s_pcqq_aiomsg)
+- [杭州电子科技大学2018年计算机硕士复试部分真题解析](https://blog.csdn.net/loi_feather/article/details/52838977)
 
 ### 5  复试进行时
 
