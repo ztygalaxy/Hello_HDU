@@ -4,6 +4,8 @@
 >
 > 适用报考范围：  **杭电计算机学院计算机相关专业**  
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)  [![Mail](https://img.shields.io/badge/mail-zhangty1996@163.com-orange.svg)]()
+
 **前言**：什么他娘的精锐，老子打的就是精锐！——李云龙
 
 ## 已更新目录
