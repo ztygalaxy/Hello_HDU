@@ -4,7 +4,7 @@
 >
 > 适用报考范围：  **杭电计算机学院计算机相关专业**  
 
-![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN) 
+![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN) ![lastcommit](<https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg>)
 
 **前言**：什么他娘的精锐，老子打的就是精锐！——李云龙
 
