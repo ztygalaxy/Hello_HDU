@@ -402,7 +402,7 @@
 
 #### 4.3  部分复试笔试真题及解析
 
-> 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753) ，仅作题目收集。
+> 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753) 等，仅作题目收集。年份指当年12月份复试题目，即2018年复试真题为2019届考生在2018年12月份的考试题目。
 
 - [杭州电子科技大学2006-2009年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79628591)
 - [杭州电子科技大学2010年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79596114)
@@ -413,7 +413,8 @@
 - [杭州电子科技大学2015年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79537583)
 - [杭州电子科技大学2016年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79489097)
 - [杭州电子科技大学2017年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79464579)
-- [杭州电子科技大学2018年计算机硕士复试部分真题解析](https://blog.csdn.net/loi_feather/article/details/52838977)
+- [杭州电子科技大学2018年计算机硕士复试部分真题解析 1](https://blog.csdn.net/loi_feather/article/details/52838977)
+- [杭州电子科技大学2018年计算机硕士复试部分真题解析 2](https://blog.csdn.net/weixin_42044546/article/details/88876958)
 
 ### 5  复试进行时
 
