@@ -1,14 +1,21 @@
-> 杭州电子科技大学考研信息、资料汇总   by 张天宇
+## 杭州电子科技大学计算机考研信息汇总
+
+![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)![sd](https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg)
+
+> 作者：[张天宇](https://tyzhang.top)	GitHub：[ztygalaxy](htpps://github.com/ztygalaxy)
 >
 > GitHub Pages:    [杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)
 >
 > 适用报考范围：  **杭电计算机学院计算机相关专业**，不定期更新
-
-![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN) ![lastcommit](<https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg>)
+>
 
 **前言**：什么他娘的精锐，老子打的就是精锐！——李云龙
 
-## 已更新目录
+## 目录
+
+> - 由于域名tyzhang.tk将于近期到期，如您一直访问的是[tyzhang.tk/Hello_HDU](https://tyzhang.tk/Hello_HDU)，今后请访问GitHub Pages。
+>- GitHub在PC环境下偶尔会出现图片加载缓慢或加载失败的情况，你可以点击[这](https://pic.tyzhang.top/images/2019/11/16/1573884016.png)扫描二维码在手机打开。
+> - 资料整理不易，烦请您在Fork之前先Star，谢谢。
 
 - [关于杭电](#关于杭电)
     - [1  杭电简介](#1--杭电简介)
@@ -173,11 +180,11 @@
 >
 > 自2017年12月起，数据结构和组成原理合二为一，2018年12月份专硕改为数学一、英语一，2019年7月份增加操作系统。
 >
-> 自2019年7月起，杭电计算机考研专业课已调整为“计算机专业综合”，其中数据结构占考试分值的40%，组成原理占考试分值的30%，操作系统占考试分值的30%。[通知原文](http://computer.hdu.edu.cn/2019/0701/c1377a96310/page.htm)
+> **自2019年7月起，杭电计算机考研专业课已调整为“计算机专业综合”，其中数据结构占考试分值的40%，组成原理占考试分值的30%，操作系统占考试分值的30%。**[通知原文](http://computer.hdu.edu.cn/2019/0701/c1377a96310/page.htm)
 
 #### 5.1  2020年考试大纲
 
-- [2019年857数据结构与组成原理考试大纲](Data2018/856数据结构与组成原理.pdf)
+- [2020年857计算机专业综合考试大纲](Data2020/857计算机专业综合.pdf)
 
 #### 5.2  2019年考试大纲
 
@@ -468,8 +475,6 @@
 
 ### 不定期更新。。。
 
-
-
 ## 后记
 
 ​    成功从来没有捷径可以走，但可以少走弯路。珍惜学习的时光，努力学习，不会错的。
@@ -478,32 +483,29 @@
 
 ​    **Do something really cool and make the world a better place.**
 
-​    [联系我 E-Mail:zhangty1996@163.com](mailto:zhangty1996@163.com)
-
 ### 致谢
 
 ​    以上内容花了较多精力整理，离不开2018级计算机学院群友们的支持。在他们的努力下，许多资料才得以放在这里。不仅如此，在项目的日常维护中，也收到了众多研友发来的非常有价值的消息，在此表示感谢。
 
-​    如果你觉得有所帮助的话，可以给我一颗Star❤，谢谢。
+​    如果您觉得有所帮助的话，可以给我一颗Star❤，谢谢。
 
 ​    **欢迎加入杭州电子科技大学2020级计算机考研交流群：561072531。**
 
-**Author**
+贡献者
 
-[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/0)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/0)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/1)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/1)[![](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/images/2)](https://sourcerer.io/fame/ztygalaxy/ztygalaxy/Hello_HDU/links/2)
+  [<img src="https://avatars3.githubusercontent.com/u/35124692?s=460&v=4" width="60px">](https://github.com/ztygalaxy)  [<img src="https://avatars0.githubusercontent.com/u/18413380?s=460&v=4" width="60px">](https://github.com/Felon03 )  [<img src="https://avatars3.githubusercontent.com/u/26433516?s=400&v=4" width="60px">](https://github.com/xiandyun)
 
-
-**Contributors**
-
-  [<img src="https://avatars3.githubusercontent.com/u/26433516?s=400&v=4" width="60px">](https://github.com/xiandyun)
-
-**Stargazers**
+Star的朋友们
 
   [<img src="Others/star1.png" width="60px">](https://github.com/ztygalaxy/Hello_HDU/stargazers)
 
+### 反馈
+
+​	如果您在浏览过程中发现了错误，请在Issue中提出，或者[联系我 E-Mail:zhangty1996@163.com](mailto:zhangty1996@163.com)。
+
 ---
 
-​    如果你不嫌烦的话，还可以关注我的个人订阅号，张大炮来巡山，浏览我的[博客](https://tyzhang.tk)。
+​    如果您不嫌烦的话，还可以关注我的个人订阅号，张大炮来巡山，浏览我的[博客](https://tyzhang.top)。
 
 <img src="Others/qrcode_zdplxs_word.png" height="100px">
 
