@@ -13,9 +13,8 @@
 
 ## 目录
 
-> - 由于域名tyzhang.tk将于近期到期，如您一直访问的是[tyzhang.tk/Hello_HDU](https://tyzhang.tk/Hello_HDU)，今后请访问GitHub Pages。
->- GitHub在PC环境下偶尔会出现图片加载缓慢或加载失败的情况，你可以点击[这](https://pic.tyzhang.top/images/2019/11/16/1573884016.png)扫描二维码在手机打开。
-> - 资料整理不易，烦请您在Fork之前先Star，谢谢。
+> - 本系列只在GitHub不定期更新，其他平台非本人维护，**转载请标明来源，谢谢**。
+>- 资料整理不易，**烦请您在Fork之前先Star，谢谢**。
 
 - [关于杭电](#关于杭电)
     - [1  杭电简介](#1--杭电简介)
@@ -114,10 +113,9 @@
 ### 1  杭电考研重要信息来源
 
 - [杭州电子科技大学研究生院](http://grs.hdu.edu.cn)
-
 - [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
-
 - 杭电研究生招生和研招网微信公众号
+- 受网络环境影响，GitHub可能会出现图片加载缓慢或加载失败的情况，你可以点击[这](https://pic.tyzhang.top/images/2019/11/16/1573884016.png)扫描二维码在手机打开。
 
 <img src="Others/qrcode_zs.png" height="120px">
 
