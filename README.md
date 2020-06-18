@@ -8,8 +8,8 @@
 >
 > 适用报考范围：  **杭电计算机学院计算机相关专业**，不定期更新
 >
-> - <font color=" #FF8C00">本系列只在GitHub不定期更新，其他平台非本人维护或停止维护，**转载请标明来源，谢谢**。</font>
-> - <font color=" #FF8C00">资料整理不易，**烦请您在Fork之前先Star，谢谢**。</font>
+> - <font color="#00BFFF">本系列只在GitHub不定期更新，其他平台非本人维护或停止维护，<font color="#00BFFF" style="font-weight: bold">转载请标明来源，谢谢</font>。</font>
+> - <font color="#00BFFF">资料整理不易，<font color="#00BFFF" style="font-weight: bold">烦请您在Fork之前先Star，谢谢</font>。</font>
 
 ## 前言
 
