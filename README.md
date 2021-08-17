@@ -2,7 +2,7 @@
 
 ![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)![sd](https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg)
 
-> 作者：[张天宇](https://tyzhang.top)	GitHub：[ztygalaxy](htpps://github.com/ztygalaxy)
+> 作者：[张天宇](https://tyzhang.top)	GitHub：[ztygalaxy](htpps://github.com/ztygalaxy) 	[字节跳动内推戳我直达](Others/BYTEDANCE.md)
 >
 > GitHub Pages:    [杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)
 >
@@ -525,6 +525,8 @@
 ​    如果您觉得有所帮助的话，可以给我一颗Star♥或者请我喝杯[☕](Others/qcode_zfb.jpg)，谢谢。
 
 ​    **欢迎加入杭州电子科技大学计算机考研官方交流群：561072531，256723483。**
+
+​	[字节跳动内推戳我直达](Others/BYTEDANCE.md)
 
 贡献者
 
