@@ -16,6 +16,8 @@ csv_file_2_reexamine = 'csv_data/2023/2023_085404_reexamine.csv'
 # csv 录取数据
 csv_file_1_admission = 'csv_data/2023/2023_081200_admission.csv'
 csv_file_2_admission = 'csv_data/2023/2023_085404_admission.csv'
+# 保存图片文件名
+save_file_name = "2023分数分布.png"
 # ----------------------------------------------------------------------------------------
 
 def get_min_max_score(csv_file_1, csv_file_2):
@@ -114,7 +116,7 @@ def count_number(csv_file_1, csv_file_2, min_score, max_score, step_size):
     return data_1_bar, data_2_bar
 
 
-def draw_pic(data_1_reexamine_bar, data_2_reexamine_bar, data_1_admission_bar, data_2_admission_bar):
+def draw_pic(data_1_reexamine_bar, data_2_reexamine_bar, data_1_admission_bar, data_2_admission_bar, save_file_name):
     """
     画图
     :param data_1_reexamine_bar: 文件1复试柱状数据
@@ -156,6 +158,8 @@ def draw_pic(data_1_reexamine_bar, data_2_reexamine_bar, data_1_admission_bar, d
     plt.grid(True, axis='y')
     # 调整布局
     plt.tight_layout()
+    # 保存文件
+    plt.savefig(save_file_name)
     # 展示
     plt.show()
 
@@ -179,4 +183,4 @@ if __name__ == '__main__':
                                                               max_score, step_size)
 
     # 画图
-    draw_pic(data_1_reexamine_bar, data_2_reexamine_bar, data_1_admission_bar, data_2_admission_bar)
+    draw_pic(data_1_reexamine_bar, data_2_reexamine_bar, data_1_admission_bar, data_2_admission_bar, save_file_name)
