@@ -1,17 +1,17 @@
 ## 杭州电子科技大学计算机考研信息汇总
 
-![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social)![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social)![sd](https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg)
+![Stars](https://img.shields.io/github/stars/ztygalaxy/Hello_Hdu.svg?style=social) ![Forks](https://img.shields.io/github/forks/ztygalaxy/Hello_Hdu.svg?style=social) ![sd](https://img.shields.io/github/last-commit/ztygalaxy/Hello_HDU.svg)   
 
-> 作者：[张天宇](https://tyzhang.top)	GitHub：[ztygalaxy](htpps://github.com/ztygalaxy) 	[字节跳动内推戳我直达](Others/BYTEDANCE.md)
+> 作者：[张天宇](https://tyzhang.top)	GitHub：[ztygalaxy](https://github.com/ztygalaxy)
 >
 > GitHub Pages:    [杭州电子科技大学计算机考研信息汇总](https://ztygalaxy.github.io/Hello_HDU)
 >
-> 适用报考范围：  **杭电计算机学院计算机相关专业**，不定期更新
+> 适用报考范围：  **杭电计算机学院计算机相关专业**，不定期更新。
 >
-> - <font color="#00BFFF">本系列只在GitHub不定期更新，其他平台非本人维护或停止维护，<font color="#00BFFF" style="font-weight: bold">转载请标明来源，谢谢</font>。</font>
+> - <font color="#00BFFF">本系列只在GitHub不定期更新，其他平台非本人维护或停止维护，<font color="#00BFFF" style="font-weight: bold">转载请标明来源。</font>。</font>
 > - <font color="#00BFFF">资料整理不易，<font color="#00BFFF" style="font-weight: bold">烦请您在Fork之前先Star，谢谢</font>。</font>
-
-最后信息更新时间: 2025/02/08
+> - <font color="#00BFFF">**最近一次更新时间: 2025/02/20**</font>
+>
 
 ---
 
@@ -99,8 +99,7 @@
     - [5.3  复试录取办法](#53--复试录取办法)
     - [5.4  杭电平面图](#54--杭电平面图)
   - [6  调剂](#6--调剂)
-  - [7. 文件目录结构](#7-文件目录结构)
-  - [不定期更新。。。](#不定期更新)
+  - [7 文件目录结构](#7-文件目录结构)
 - [后记](#后记)
   - [致谢](#致谢)
   - [反馈](#反馈)
@@ -139,7 +138,6 @@
 - [杭州电子科技大学计算机学院](http://computer.hdu.edu.cn )
 - [热点问答!杭州电子科技大学2021年硕士研究生招生热点问题答疑](http://grs.hdu.edu.cn/2021/0303/c1721a132660/page.htm)
 - 杭电研究生招生和研招网微信公众号
-- 受网络环境影响，GitHub可能会出现图片加载缓慢或加载失败的情况，你可以点击[这](https://pic.tyzhang.top/images/2019/11/16/1573884016.png)扫描二维码在手机打开。
 
 <img src="Others/qrcode_zs.png" height="120px">
 
@@ -166,6 +164,7 @@
 > **简介**：历年各专业的具体报录信息和往年的考试均分等信息。供考研学子评估考研难度，为择校提供参考数据。
 
 #### 4.1  2025年
+
 TODO: 暂无数据
 
 #### 4.1  2024年
@@ -193,8 +192,7 @@ TODO: 暂无数据
 [详情](Data2021/2021年硕士研究生报考上线录取情况.pdf)
 
 <details>
-
-<summary>2020年之前的报录比</summary>
+<summary>👉 2020年之前的报录比</summary>
 
 #### 4.4  2020年
 
@@ -234,8 +232,7 @@ TODO: 暂无数据
 - 408计算机学科专业基础综合
 
 <details>
-
-<summary>2020年之前的考试大纲</summary>
+<summary>👉 2020年之前的考试大纲</summary>
 
 #### 5.6  2020年考试大纲
 
@@ -252,8 +249,7 @@ TODO: 暂无数据
 > **简介**：因专业课调整，本项目初试篇中“考试大纲”和“专业课真题”栏目不再准确，请考生按照408相关内容复习准备。
 
 <details>
-
-<summary>2020年之前的专业课真题</summary>
+<summary>👉 2020年之前的专业课真题</summary>
 
 #### 6.1  数据结构
 
@@ -321,20 +317,18 @@ TODO: 暂无数据
 
 #### 1.1 分数线简介
 
-杭电的分数线可以分为两种：国家线和院线
-一般情况下：**国家线**≤**院线**
+杭电的分数线可以分为两种：国家线和院线，一般情况下：**国家线**≤**院线**。
 
 > `国家线`：国家线是教育部统一划定的复试最低控制分数线，低于国家线的考生无法参加研究生复试。
->  `院线`：院线是决定考生是否有资格参加本院所报考专业复试的最低控制分数线。低于院线的原报考生不能参加本院报考专业的复试。
->   详细要求请留意当年学院公布的复试细则，以官网为准。
+> `院线`：院线是决定考生是否有资格参加本院所报考专业复试的最低控制分数线。低于院线的原报考生不能参加本院报考专业的复试。
+> 详细要求请留意当年学院公布的复试细则，以官网为准。
 
 #### 1.2  国家线
 
 ![工科专硕学硕国家线](Common/2024_硕士研究生国家线.png)
 
 <details>
-
-<summary>详细国家线</summary>
+<summary>👉 历年详细国家线</summary>
 
 ##### 1.2.1  2025年国家线
 TODO: 暂未公布
@@ -365,7 +359,7 @@ TODO: 暂未公布
 
 ##### 1.2.4  2020年国家线
 
-![](Data2020/imgs/020国家线学硕.png)
+![](Data2020/imgs/2020国家线学硕.png)
 
 ![](Data2020/imgs/2020国家线专硕.png)
 
@@ -382,7 +376,7 @@ TODO: 暂未公布
 ![计算机学院学硕专硕院线](Common/2024_杭电计算机硕士研究生院线.png)
 
 <details>
-<summary>详细分数、复试名单、录取名单</summary>
+<summary>👉 详细分数、复试名单、录取名单</summary>
 
 ##### 1.3.1  2025年计算机学院院线
 TODO: 暂未公布
@@ -455,7 +449,7 @@ TODO: 暂无数据
 <img src="Data2021/imgs/2021分数分布.png" alt="2023分数分布" style="width:600px;" />
 
 <details>
-<summary> 2020年之前的分数分布 </summary>
+<summary>👉 2020年之前的分数分布 </summary>
 
 ##### 1.4.6  2020年分数分布
 
@@ -513,8 +507,7 @@ TODO: 暂未公布
 > 3.27 **网络复试**                       
 
 <details>
-
-<summary> 2020年之前的复试时间线 </summary>
+<summary>👉 2020年之前的复试时间线 </summary>
 
 ####  2.6  2020年复试时间线
 
@@ -540,7 +533,7 @@ TODO: 暂未公布
 
 -  处理好本科学校的事务，提前几天来杭电，方便参加各种实验室面试。
 - 邮件联系心仪的导师或者实验室，参加实验室面试。
-- 精心准备一份简历
+- 精心准备一份简历。
 
 ### 4  临阵磨枪
 
@@ -564,7 +557,7 @@ TODO: 暂未公布
 
 #### 4.3  部分复试笔试真题及解析
 
-> 本节内容摘自CSDN[逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753) 等，仅作题目收集，未对答案正确与否进行核验。年份指当届考生复试题目，即2019年复试真题为2019届考生在2018年12月份的考试题目。
+> 本节内容摘自CSDN [逃离地球的小小呆博客](https://so.csdn.net/so/search/s.do?q=%E6%9D%AD%E7%94%B5&t=blog&u=gui951753) 等，仅作题目收集，未对答案正确与否进行核验。年份指当届考生复试题目，即2019年复试真题为2019届考生在2018年12月份的考试题目。
 
 - [杭州电子科技大学2006-2009年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79628591)
 - [杭州电子科技大学2010年计算机硕士复试真题解析](https://blog.csdn.net/gui951753/article/details/79596114)
@@ -603,7 +596,7 @@ TODO: 暂未公布
 ​    关于调剂事宜，需要调剂的考生请在国家复试线公布后，关注我校有关调剂通知，并直接登录“中国研究生招生信息网<http://yz.chsi.com.cn/>”，根据各学院的缺额情况、调剂要求，填报调剂志愿。具体情况，也可在国家线公布后联系各学院咨询，联系方式详见5.1中参考链接。 
 
 
-### 7. 文件目录结构
+### 7 文件目录结构
 ```
 Hello_HDU/
 ├── DataXXXX/    # XXXX代表年份,例如 Data2023/
@@ -641,8 +634,6 @@ Hello_HDU/
     ├── 简历模板.docx
     └── 组成原理统计.png
 ```
-### 不定期更新。。。
-
 ## 后记
 
 ​    成功从来没有捷径可以走，但可以少走弯路。珍惜学习的时光，努力学习，不会错的。
@@ -657,10 +648,6 @@ Hello_HDU/
 
 ​    如果您觉得有所帮助的话，可以给我一颗Star♥或者请我喝杯[☕](Others/qcode_zfb.jpg)，谢谢。
 
-​    **欢迎加入杭州电子科技大学计算机考研官方交流群：561072531，256723483。**
-
-​	[字节跳动内推戳我直达](Others/BYTEDANCE.md)
-
 贡献者
 
   [<img src="https://avatars3.githubusercontent.com/u/35124692?s=460&v=4" width="60px">](https://github.com/ztygalaxy)  [<img src="https://avatars0.githubusercontent.com/u/18413380?s=460&v=4" width="60px">](https://github.com/Felon03 )  [<img src="https://avatars3.githubusercontent.com/u/26433516?s=400&v=4" width="60px">](https://github.com/xiandyun)
@@ -672,12 +659,11 @@ Star的朋友们
 
 ### 反馈
 
-​	如果您在浏览过程中发现了错误或者有好的建议，请在Issue中提出，或者[与我联系 E-Mail:zhangty1996@163.com](mailto:zhangty1996@163.com)。
+​    如果您在浏览过程中发现了错误或者有好的建议，请在Issue中提出，或者[与我联系 E-Mail:zhangty1996@163.com](mailto:zhangty1996@163.com)。
 
 ---
 
 ​    如果您不嫌烦的话，还可以关注我的个人订阅号，张大炮来巡山，浏览我的[博客](https://tyzhang.top)。
 
 <img src="Others/qrcode_zdplxs_word.png" height="100px">
-
 
